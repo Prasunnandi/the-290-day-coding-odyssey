@@ -43,17 +43,13 @@ the-290-day-coding-odyssey/
 │   ├── Day-001-Hash-Maps-and-Frequency-Counting/
 │   │   ├── README.md                          # Day 1 summary & pattern notes
 │   │   ├── 0001-two-sum/
-│   │   │   ├── README.md                      # Problem description & all 3 approaches
-│   │   │   ├── solution.py                    # Python 3 implementation (0ms Accepted)
-│   │   │   └── Solution.java                  # Java implementation
 │   │   ├── 0242-valid-anagram/
-│   │   │   ├── README.md
-│   │   │   ├── solution.py
-│   │   │   └── Solution.java
 │   │   └── 0217-contains-duplicate/
-│   │       ├── README.md
-│   │       ├── solution.py
-│   │       └── Solution.java
+│   └── Day-002-Hash-Map-Grouping-and-Bucket-Sort/
+│       ├── README.md                          # Day 2 summary & pattern notes
+│       ├── 0049-group-anagrams/
+│       ├── 0347-top-k-frequent-elements/
+│       └── 0271-encode-and-decode-strings/
 ```
 
 ---
@@ -62,3 +58,4 @@ the-290-day-coding-odyssey/
 
 ### Phase 1: Arrays & Hashing
 - [Day 001: Hash Maps & Frequency Counting](./01-Arrays-and-Hashing/Day-001-Hash-Maps-and-Frequency-Counting/README.md) — *Two Sum (0ms, 100%), Valid Anagram, Contains Duplicate*
+- [Day 002: Hash Map Grouping & Bucket Sort](./01-Arrays-and-Hashing/Day-002-Hash-Map-Grouping-and-Bucket-Sort/README.md) — *Group Anagrams, Top K Frequent Elements, Encode and Decode Strings*
