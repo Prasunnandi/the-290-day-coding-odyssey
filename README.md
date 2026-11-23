@@ -40,7 +40,7 @@ the-290-day-coding-odyssey/
 ├── README.md                                  # Master Challenge Overview & Progress
 ├── LeetCode_290_Days_Master_Tracker.xlsx      # Interactive Excel Tracker & Dashboard
 ├── 01-Arrays-and-Hashing/
-│   ├── Day-001/
+│   ├── Day-001-Hash-Maps-and-Frequency-Counting/
 │   │   ├── README.md                          # Day 1 summary & pattern notes
 │   │   ├── 0001-two-sum/
 │   │   │   ├── README.md                      # Problem description & all 3 approaches
@@ -61,4 +61,4 @@ the-290-day-coding-odyssey/
 ## 🚀 Daily Log
 
 ### Phase 1: Arrays & Hashing
-- [Day 001: Hash Map, Frequency Counting & Hash Set Foundations](./01-Arrays-and-Hashing/Day-001/README.md) — *Two Sum (0ms, 100%), Valid Anagram, Contains Duplicate*
+- [Day 001: Hash Maps & Frequency Counting](./01-Arrays-and-Hashing/Day-001-Hash-Maps-and-Frequency-Counting/README.md) — *Two Sum (0ms, 100%), Valid Anagram, Contains Duplicate*
