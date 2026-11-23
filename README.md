@@ -1,17 +1,20 @@
-# 🏆 LeetCode 290-Day Mastery Challenge
+# 🚀 The 290-Day Coding Odyssey
 
-A disciplined, structured 290-day journey mastering data structures, algorithmic patterns, and competitive problem solving in **Python 3** and **Java**.
+> **Mastering Data Structures, Algorithmic Patterns, and Problem-Solving in Python 3 & Java.**
+
+A disciplined, continuous 290-day journey mastering data structures, algorithmic patterns, and competitive problem solving in **Python 3** and **Java**. Every problem is curated topic-wise, pattern-wise, difficulty-wise, and sequence-wise.
 
 ---
 
 ## 📊 Challenge Tracker & Progress
 
+- **GitHub Repository:** [`the-290-day-coding-odyssey`](https://github.com/Prasunnandi/the-290-day-coding-odyssey)
 - **Total Planned Days:** 290 Days
 - **Problems Per Day:** 3–5 Problems
 - **Languages:** Python 3 & Java
 - **Master Excel Sheet:** [`LeetCode_290_Days_Master_Tracker.xlsx`](./LeetCode_290_Days_Master_Tracker.xlsx)
 
-### 🗓️ Phase-by-Phase Roadmap
+### 🗓️ Phase-by-Phase Curriculum
 
 | Phase | Domain / Topic | Day Span | Status |
 | :---: | :--- | :---: | :---: |
@@ -33,7 +36,7 @@ A disciplined, structured 290-day journey mastering data structures, algorithmic
 ## 📁 Repository Structure
 
 ```text
-leetcode-290-days/
+the-290-day-coding-odyssey/
 ├── README.md                                  # Master Challenge Overview & Progress
 ├── LeetCode_290_Days_Master_Tracker.xlsx      # Interactive Excel Tracker & Dashboard
 ├── 01-Arrays-and-Hashing/
