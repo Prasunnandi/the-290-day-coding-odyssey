@@ -45,11 +45,21 @@ the-290-day-coding-odyssey/
 │   │   ├── 0001-two-sum/
 │   │   ├── 0242-valid-anagram/
 │   │   └── 0217-contains-duplicate/
-│   └── Day-002-Hash-Map-Grouping-and-Bucket-Sort/
-│       ├── README.md                          # Day 2 summary & pattern notes
-│       ├── 0049-group-anagrams/
-│       ├── 0347-top-k-frequent-elements/
-│       └── 0271-encode-and-decode-strings/
+│   ├── Day-002-Hash-Map-Grouping-and-Bucket-Sort/
+│   │   ├── README.md                          # Day 2 summary & pattern notes
+│   │   ├── 0049-group-anagrams/
+│   │   ├── 0347-top-k-frequent-elements/
+│   │   └── 0271-encode-and-decode-strings/
+│   ├── Day-003-Array-Products-and-State-Hashing/
+│   │   ├── README.md                          # Day 3 summary & pattern notes
+│   │   ├── 0238-product-of-array-except-self/
+│   │   ├── 0036-valid-sudoku/
+│   │   └── 0128-longest-consecutive-sequence/
+│   └── Day-004-Prefix-Sums-and-Modulo-Hashing/
+│       ├── README.md                          # Day 4 summary & pattern notes
+│       ├── 0303-range-sum-query-immutable/
+│       ├── 0560-subarray-sum-equals-k/
+│       └── 0974-subarray-sums-divisible-by-k/
 ```
 
 ---
@@ -59,3 +69,5 @@ the-290-day-coding-odyssey/
 ### Phase 1: Arrays & Hashing
 - [Day 001: Hash Maps & Frequency Counting](./01-Arrays-and-Hashing/Day-001-Hash-Maps-and-Frequency-Counting/README.md) — *Two Sum (0ms, 100%), Valid Anagram, Contains Duplicate*
 - [Day 002: Hash Map Grouping & Bucket Sort](./01-Arrays-and-Hashing/Day-002-Hash-Map-Grouping-and-Bucket-Sort/README.md) — *Group Anagrams, Top K Frequent Elements, Encode and Decode Strings*
+- [Day 003: Array Products & State Hashing](./01-Arrays-and-Hashing/Day-003-Array-Products-and-State-Hashing/README.md) — *Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence*
+- [Day 004: Prefix Sums & Modulo Hashing](./01-Arrays-and-Hashing/Day-004-Prefix-Sums-and-Modulo-Hashing/README.md) — *Range Sum Query, Subarray Sum Equals K, Subarray Sums Divisible by K*
