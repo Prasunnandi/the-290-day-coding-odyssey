@@ -11,7 +11,7 @@
 1. **Range Query in $O(1)$ Time:** Precomputing cumulative sums into a 1-based prefix table allows answering arbitrary range queries `sum(L..R)` in $O(1)$ without re-scanning.
 2. **Subarray Sum Equals K ($O(N)$ with Negative Numbers):** When elements can be negative, sliding windows fail. Instead, we use the prefix difference identity:
    $$\text{prefix}[j] - \text{prefix}[i-1] = k \iff \text{prefix}[i-1] = \text{prefix}[j] - k$$
-   We count occurrences of $(\text{current\_sum} - k)$ using a frequency hash map.
+   We count occurrences of `(current_sum - k)` using a frequency hash map.
 3. **Modular Congruence Principle:** Two prefix sums sharing the identical remainder modulo $k$ guarantee that the elements between them sum to a multiple of $k$. Storing remainder frequencies in an `int[k]` array yields optimal $O(N)$ time and $O(K)$ space.
 
 ---

@@ -29,7 +29,7 @@ For this subarray sum to equal $k$:
 $$\text{prefix}[j] - \text{prefix}[i - 1] = k \implies \text{prefix}[i - 1] = \text{prefix}[j] - k$$
 
 As we maintain `current_sum` ($\text{prefix}[j]$):
-* We query a hash map: **How many times has $(\text{current\_sum} - k)$ appeared before?**
+* We query a hash map: **How many times has `current_sum - k` appeared before?**
 * We add that frequency directly to our count!
 
 ### Visual Relationship
