@@ -55,11 +55,21 @@ the-290-day-coding-odyssey/
 │   │   ├── 0238-product-of-array-except-self/
 │   │   ├── 0036-valid-sudoku/
 │   │   └── 0128-longest-consecutive-sequence/
-│   └── Day-004-Prefix-Sums-and-Modulo-Hashing/
-│       ├── README.md                          # Day 4 summary & pattern notes
-│       ├── 0303-range-sum-query-immutable/
-│       ├── 0560-subarray-sum-equals-k/
-│       └── 0974-subarray-sums-divisible-by-k/
+│   ├── Day-004-Prefix-Sums-and-Modulo-Hashing/
+│   │   ├── README.md                          # Day 4 summary & pattern notes
+│   │   ├── 0303-range-sum-query-immutable/
+│   │   ├── 0560-subarray-sum-equals-k/
+│   │   └── 0974-subarray-sums-divisible-by-k/
+│   ├── Day-005-Contiguous-Subarrays-and-Balance/
+│   │   ├── README.md                          # Day 5 summary & pattern notes
+│   │   ├── 0523-continuous-subarray-sum/
+│   │   ├── 0525-contiguous-array/
+│   │   └── 0724-find-pivot-index/
+│   └── Day-006-Matrix-Simulation-and-Rotation/
+│       ├── README.md                          # Day 6 summary & pattern notes
+│       ├── 0073-set-matrix-zeroes/
+│       ├── 0054-spiral-matrix/
+│       └── 0048-rotate-image/
 ```
 
 ---
@@ -71,3 +81,5 @@ the-290-day-coding-odyssey/
 - [Day 002: Hash Map Grouping & Bucket Sort](./01-Arrays-and-Hashing/Day-002-Hash-Map-Grouping-and-Bucket-Sort/README.md) — *Group Anagrams, Top K Frequent Elements, Encode and Decode Strings*
 - [Day 003: Array Products & State Hashing](./01-Arrays-and-Hashing/Day-003-Array-Products-and-State-Hashing/README.md) — *Product of Array Except Self, Valid Sudoku, Longest Consecutive Sequence*
 - [Day 004: Prefix Sums & Modulo Hashing](./01-Arrays-and-Hashing/Day-004-Prefix-Sums-and-Modulo-Hashing/README.md) — *Range Sum Query, Subarray Sum Equals K, Subarray Sums Divisible by K*
+- [Day 005: Contiguous Subarrays & Balance](./01-Arrays-and-Hashing/Day-005-Contiguous-Subarrays-and-Balance/README.md) — *Continuous Subarray Sum, Contiguous Array, Find Pivot Index*
+- [Day 006: Matrix Simulation & Rotations](./01-Arrays-and-Hashing/Day-006-Matrix-Simulation-and-Rotation/README.md) — *Set Matrix Zeroes, Spiral Matrix, Rotate Image*
