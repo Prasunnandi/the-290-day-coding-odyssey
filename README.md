@@ -18,7 +18,7 @@ A disciplined, continuous 290-day journey mastering data structures, algorithmic
 
 | Phase | Domain / Topic | Day Span | Status |
 | :---: | :--- | :---: | :---: |
-| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Day 1 Complete)** |
+| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–9 Complete)** |
 | **02** | Two Pointers & Sliding Window | Days 026 - 045 | ⏳ Pending |
 | **03** | Stack & Monotonic Stack | Days 046 - 065 | ⏳ Pending |
 | **04** | Binary Search & Search Space | Days 066 - 085 | ⏳ Pending |
@@ -65,11 +65,26 @@ the-290-day-coding-odyssey/
 │   │   ├── 0523-continuous-subarray-sum/
 │   │   ├── 0525-contiguous-array/
 │   │   └── 0724-find-pivot-index/
-│   └── Day-006-Matrix-Simulation-and-Rotation/
-│       ├── README.md                          # Day 6 summary & pattern notes
-│       ├── 0073-set-matrix-zeroes/
-│       ├── 0054-spiral-matrix/
-│       └── 0048-rotate-image/
+│   ├── Day-006-Matrix-Simulation-and-Rotation/
+│   │   ├── README.md                          # Day 6 summary & pattern notes
+│   │   ├── 0073-set-matrix-zeroes/
+│   │   ├── 0054-spiral-matrix/
+│   │   └── 0048-rotate-image/
+│   ├── Day-007-Grid-Traversal-and-Cellular-Simulation/
+│   │   ├── README.md                          # Day 7 summary & pattern notes
+│   │   ├── 0498-diagonal-traverse/
+│   │   ├── 0289-game-of-life/
+│   │   └── 0566-reshape-the-matrix/
+│   ├── Day-008-In-Place-Array-Index-Marking/
+│   │   ├── README.md                          # Day 8 summary & pattern notes
+│   │   ├── 0041-first-missing-positive/
+│   │   ├── 0448-find-all-numbers-disappeared-in-an-array/
+│   │   └── 0442-find-all-duplicates-in-an-array/
+│   └── Day-009-Boyer-Moore-Voting-and-Kadane/
+│       ├── README.md                          # Day 9 summary & pattern notes
+│       ├── 0169-majority-element/
+│       ├── 0229-majority-element-ii/
+│       └── 0053-maximum-subarray/
 ```
 
 ---
@@ -83,3 +98,6 @@ the-290-day-coding-odyssey/
 - [Day 004: Prefix Sums & Modulo Hashing](./01-Arrays-and-Hashing/Day-004-Prefix-Sums-and-Modulo-Hashing/README.md) — *Range Sum Query, Subarray Sum Equals K, Subarray Sums Divisible by K*
 - [Day 005: Contiguous Subarrays & Balance](./01-Arrays-and-Hashing/Day-005-Contiguous-Subarrays-and-Balance/README.md) — *Continuous Subarray Sum, Contiguous Array, Find Pivot Index*
 - [Day 006: Matrix Simulation & Rotations](./01-Arrays-and-Hashing/Day-006-Matrix-Simulation-and-Rotation/README.md) — *Set Matrix Zeroes, Spiral Matrix, Rotate Image*
+- [Day 007: Grid Traversal and Cellular Simulation](./01-Arrays-and-Hashing/Day-007-Grid-Traversal-and-Cellular-Simulation/README.md) — *Diagonal Traverse, Game of Life, Reshape the Matrix*
+- [Day 008: In-Place Array Index Marking](./01-Arrays-and-Hashing/Day-008-In-Place-Array-Index-Marking/README.md) — *First Missing Positive, Find All Numbers Disappeared, Find All Duplicates*
+- [Day 009: Boyer-Moore Voting & Kadane's Algorithm](./01-Arrays-and-Hashing/Day-009-Boyer-Moore-Voting-and-Kadane/README.md) — *Majority Element, Majority Element II, Maximum Subarray*
