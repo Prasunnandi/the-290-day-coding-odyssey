@@ -18,7 +18,7 @@ A disciplined, continuous 290-day journey mastering data structures, algorithmic
 
 | Phase | Domain / Topic | Day Span | Status |
 | :---: | :--- | :---: | :---: |
-| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–9 Complete)** |
+| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–13 Complete)** |
 | **02** | Two Pointers & Sliding Window | Days 026 - 045 | ⏳ Pending |
 | **03** | Stack & Monotonic Stack | Days 046 - 065 | ⏳ Pending |
 | **04** | Binary Search & Search Space | Days 066 - 085 | ⏳ Pending |
@@ -80,11 +80,31 @@ the-290-day-coding-odyssey/
 │   │   ├── 0041-first-missing-positive/
 │   │   ├── 0448-find-all-numbers-disappeared-in-an-array/
 │   │   └── 0442-find-all-duplicates-in-an-array/
-│   └── Day-009-Boyer-Moore-Voting-and-Kadane/
-│       ├── README.md                          # Day 9 summary & pattern notes
-│       ├── 0169-majority-element/
-│       ├── 0229-majority-element-ii/
-│       └── 0053-maximum-subarray/
+│   ├── Day-009-Boyer-Moore-Voting-and-Kadane/
+│   │   ├── README.md                          # Day 9 summary & pattern notes
+│   │   ├── 0169-majority-element/
+│   │   ├── 0229-majority-element-ii/
+│   │   └── 0053-maximum-subarray/
+│   ├── Day-010-Lexicographical-Order-and-In-Place-Merge/
+│   │   ├── README.md                          # Day 10 summary & pattern notes
+│   │   ├── 0031-next-permutation/
+│   │   ├── 0152-maximum-product-subarray/
+│   │   └── 0088-merge-sorted-array/
+│   ├── Day-011-Subarray-Constraint-Optimization/
+│   │   ├── README.md                          # Day 11 summary & pattern notes
+│   │   ├── 0713-subarray-product-less-than-k/
+│   │   ├── 0209-minimum-size-subarray-sum/
+│   │   └── 1004-max-consecutive-ones-iii/
+│   ├── Day-012-Bitwise-and-Cyclic-Sort-Missing-Elements/
+│   │   ├── README.md                          # Day 12 summary & pattern notes
+│   │   ├── 0287-find-the-duplicate-number/
+│   │   ├── 0268-missing-number/
+│   │   └── 0645-set-mismatch/
+│   └── Day-013-Randomized-Set-and-2D-Range-Sum/
+│       ├── README.md                          # Day 13 summary & pattern notes
+│       ├── 0380-insert-delete-getrandom-o1/
+│       ├── 0381-insert-delete-getrandom-o1-duplicates-allowed/
+│       └── 0304-range-sum-query-2d-immutable/
 ```
 
 ---
@@ -101,3 +121,7 @@ the-290-day-coding-odyssey/
 - [Day 007: Grid Traversal and Cellular Simulation](./01-Arrays-and-Hashing/Day-007-Grid-Traversal-and-Cellular-Simulation/README.md) — *Diagonal Traverse, Game of Life, Reshape the Matrix*
 - [Day 008: In-Place Array Index Marking](./01-Arrays-and-Hashing/Day-008-In-Place-Array-Index-Marking/README.md) — *First Missing Positive, Find All Numbers Disappeared, Find All Duplicates*
 - [Day 009: Boyer-Moore Voting & Kadane's Algorithm](./01-Arrays-and-Hashing/Day-009-Boyer-Moore-Voting-and-Kadane/README.md) — *Majority Element, Majority Element II, Maximum Subarray*
+- [Day 010: Lexicographical Order & In-Place Merge](./01-Arrays-and-Hashing/Day-010-Lexicographical-Order-and-In-Place-Merge/README.md) — *Next Permutation, Maximum Product Subarray, Merge Sorted Array*
+- [Day 011: Subarray Constraint Optimization](./01-Arrays-and-Hashing/Day-011-Subarray-Constraint-Optimization/README.md) — *Subarray Product Less Than K, Minimum Size Subarray Sum, Max Consecutive Ones III*
+- [Day 012: Bitwise & Cyclic Sort Missing Elements](./01-Arrays-and-Hashing/Day-012-Bitwise-and-Cyclic-Sort-Missing-Elements/README.md) — *Find the Duplicate Number, Missing Number, Set Mismatch*
+- [Day 013: Randomized Set & 2D Range Sum](./01-Arrays-and-Hashing/Day-013-Randomized-Set-and-2D-Range-Sum/README.md) — *Insert Delete GetRandom O(1), Insert Delete GetRandom O(1) Duplicates Allowed, Range Sum Query 2D Immutable*
