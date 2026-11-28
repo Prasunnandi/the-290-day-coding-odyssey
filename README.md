@@ -18,7 +18,7 @@ A disciplined, continuous 290-day journey mastering data structures, algorithmic
 
 | Phase | Domain / Topic | Day Span | Status |
 | :---: | :--- | :---: | :---: |
-| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–17 Complete)** |
+| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–20 Complete)** |
 | **02** | Two Pointers & Sliding Window | Days 026 - 045 | ⏳ Pending |
 | **03** | Stack & Monotonic Stack | Days 046 - 065 | ⏳ Pending |
 | **04** | Binary Search & Search Space | Days 066 - 085 | ⏳ Pending |
@@ -120,11 +120,26 @@ the-290-day-coding-odyssey/
 │   │   ├── 0205-isomorphic-strings/
 │   │   ├── 0290-word-pattern/
 │   │   └── 0451-sort-characters-by-frequency/
-│   └── Day-017-String-Parsing-and-Simulation/
-│       ├── README.md                          # Day 17 summary & pattern notes
-│       ├── 0014-longest-common-prefix/
-│       ├── 0008-string-to-integer-atoi/
-│       └── 0043-multiply-strings/
+│   ├── Day-017-String-Parsing-and-Simulation/
+│   │   ├── README.md                          # Day 17 summary & pattern notes
+│   │   ├── 0014-longest-common-prefix/
+│   │   ├── 0008-string-to-integer-atoi/
+│   │   └── 0043-multiply-strings/
+│   ├── Day-018-Custom-Sorting-and-Quickselect-Selection/
+│   │   ├── README.md                          # Day 18 summary & pattern notes
+│   │   ├── 0791-custom-sort-string/
+│   │   ├── 0179-largest-number/
+│   │   └── 0215-kth-largest-element-in-an-array/
+│   ├── Day-019-Greedy-Partitioning-and-Dutch-National-Flag/
+│   │   ├── README.md                          # Day 19 summary & pattern notes
+│   │   ├── 0763-partition-labels/
+│   │   ├── 0283-move-zeroes/
+│   │   └── 0075-sort-colors/
+│   └── Day-020-K-Sum-Combinations-and-Hash-Map-Tradeoffs/
+│       ├── README.md                          # Day 20 summary & pattern notes
+│       ├── 0018-4sum/
+│       ├── 0454-4sum-ii/
+│       └── 0016-3sum-closest/
 ```
 
 ---
@@ -149,3 +164,6 @@ the-290-day-coding-odyssey/
 - [Day 015: Max Chunks & Disjoint Intervals](./01-Arrays-and-Hashing/Day-015-Max-Chunks-and-Disjoint-Intervals/README.md) — *Max Chunks To Make Sorted, Max Chunks To Make Sorted II, Partition Array into Disjoint Intervals*
 - [Day 016: Bijective Mapping & Frequency Sort](./01-Arrays-and-Hashing/Day-016-Bijective-Mapping-and-Frequency-Sort/README.md) — *Isomorphic Strings, Word Pattern, Sort Characters By Frequency*
 - [Day 017: String Parsing & Big-Number Simulation](./01-Arrays-and-Hashing/Day-017-String-Parsing-and-Simulation/README.md) — *Longest Common Prefix, String to Integer (atoi), Multiply Strings*
+- [Day 018: Custom Sorting & Quickselect Selection](./01-Arrays-and-Hashing/Day-018-Custom-Sorting-and-Quickselect-Selection/README.md) — *Custom Sort String, Largest Number, Kth Largest Element in an Array*
+- [Day 019: Greedy Partitioning & Dutch National Flag](./01-Arrays-and-Hashing/Day-019-Greedy-Partitioning-and-Dutch-National-Flag/README.md) — *Partition Labels, Move Zeroes, Sort Colors*
+- [Day 020: K-Sum Combinations & Hash Map Tradeoffs](./01-Arrays-and-Hashing/Day-020-K-Sum-Combinations-and-Hash-Map-Tradeoffs/README.md) — *4Sum, 4Sum II, 3Sum Closest*
