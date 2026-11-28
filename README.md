@@ -18,7 +18,7 @@ A disciplined, continuous 290-day journey mastering data structures, algorithmic
 
 | Phase | Domain / Topic | Day Span | Status |
 | :---: | :--- | :---: | :---: |
-| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–13 Complete)** |
+| **01** | Arrays, Hashing & Prefix Sums | Days 001 - 025 | 🚀 **In Progress (Days 1–17 Complete)** |
 | **02** | Two Pointers & Sliding Window | Days 026 - 045 | ⏳ Pending |
 | **03** | Stack & Monotonic Stack | Days 046 - 065 | ⏳ Pending |
 | **04** | Binary Search & Search Space | Days 066 - 085 | ⏳ Pending |
@@ -100,11 +100,31 @@ the-290-day-coding-odyssey/
 │   │   ├── 0287-find-the-duplicate-number/
 │   │   ├── 0268-missing-number/
 │   │   └── 0645-set-mismatch/
-│   └── Day-013-Randomized-Set-and-2D-Range-Sum/
-│       ├── README.md                          # Day 13 summary & pattern notes
-│       ├── 0380-insert-delete-getrandom-o1/
-│       ├── 0381-insert-delete-getrandom-o1-duplicates-allowed/
-│       └── 0304-range-sum-query-2d-immutable/
+│   ├── Day-013-Randomized-Set-and-2D-Range-Sum/
+│   │   ├── README.md                          # Day 13 summary & pattern notes
+│   │   ├── 0380-insert-delete-getrandom-o1/
+│   │   ├── 0381-insert-delete-getrandom-o1-duplicates-allowed/
+│   │   └── 0304-range-sum-query-2d-immutable/
+│   ├── Day-014-2D-Submatrix-Target-Sums-and-BFS/
+│   │   ├── README.md                          # Day 14 summary & pattern notes
+│   │   ├── 0542-01-matrix/
+│   │   ├── 1074-number-of-submatrices-that-sum-to-target/
+│   │   └── 0363-max-sum-of-rectangle-no-larger-than-k/
+│   ├── Day-015-Max-Chunks-and-Disjoint-Intervals/
+│   │   ├── README.md                          # Day 15 summary & pattern notes
+│   │   ├── 0769-max-chunks-to-make-sorted/
+│   │   ├── 0768-max-chunks-to-make-sorted-ii/
+│   │   └── 0915-partition-array-into-disjoint-intervals/
+│   ├── Day-016-Bijective-Mapping-and-Frequency-Sort/
+│   │   ├── README.md                          # Day 16 summary & pattern notes
+│   │   ├── 0205-isomorphic-strings/
+│   │   ├── 0290-word-pattern/
+│   │   └── 0451-sort-characters-by-frequency/
+│   └── Day-017-String-Parsing-and-Simulation/
+│       ├── README.md                          # Day 17 summary & pattern notes
+│       ├── 0014-longest-common-prefix/
+│       ├── 0008-string-to-integer-atoi/
+│       └── 0043-multiply-strings/
 ```
 
 ---
@@ -125,3 +145,7 @@ the-290-day-coding-odyssey/
 - [Day 011: Subarray Constraint Optimization](./01-Arrays-and-Hashing/Day-011-Subarray-Constraint-Optimization/README.md) — *Subarray Product Less Than K, Minimum Size Subarray Sum, Max Consecutive Ones III*
 - [Day 012: Bitwise & Cyclic Sort Missing Elements](./01-Arrays-and-Hashing/Day-012-Bitwise-and-Cyclic-Sort-Missing-Elements/README.md) — *Find the Duplicate Number, Missing Number, Set Mismatch*
 - [Day 013: Randomized Set & 2D Range Sum](./01-Arrays-and-Hashing/Day-013-Randomized-Set-and-2D-Range-Sum/README.md) — *Insert Delete GetRandom O(1), Insert Delete GetRandom O(1) Duplicates Allowed, Range Sum Query 2D Immutable*
+- [Day 014: 2D Submatrix Target Sums & BFS](./01-Arrays-and-Hashing/Day-014-2D-Submatrix-Target-Sums-and-BFS/README.md) — *01 Matrix, Number of Submatrices That Sum to Target, Max Sum of Rectangle <= K*
+- [Day 015: Max Chunks & Disjoint Intervals](./01-Arrays-and-Hashing/Day-015-Max-Chunks-and-Disjoint-Intervals/README.md) — *Max Chunks To Make Sorted, Max Chunks To Make Sorted II, Partition Array into Disjoint Intervals*
+- [Day 016: Bijective Mapping & Frequency Sort](./01-Arrays-and-Hashing/Day-016-Bijective-Mapping-and-Frequency-Sort/README.md) — *Isomorphic Strings, Word Pattern, Sort Characters By Frequency*
+- [Day 017: String Parsing & Big-Number Simulation](./01-Arrays-and-Hashing/Day-017-String-Parsing-and-Simulation/README.md) — *Longest Common Prefix, String to Integer (atoi), Multiply Strings*
